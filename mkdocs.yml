@@ -1,0 +1,6 @@
+site_name: Hoya Developers x Allowance
+nav:
+  - Home: index.md
+  - Merchant Web App: webapp.md
+  - Mobile App: mobile.md
+theme: readthedocs
