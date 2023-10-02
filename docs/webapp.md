@@ -50,3 +50,10 @@ Georgetown Gourmet runs a 20% discount and does not use the user's balance.
 ### Sale
 * `new_allowance_amount` - the user's allowance balance after the sale
 * `old_allowance_amount` - the user's allowance balance before the sale
+
+## How do I get my hands on the data?
+At the moment you can't. I will spin up a hoya developer exclusive readonly HTTP API.
+You can use this API to develop the react app as well. And then when it comes time to deploy, I'll
+build out real production endpoints which authenticate/authorize the merchant to access the data.
+
+If you have never worked with an HTTP API before or don't know what that is do let me know in discord.
