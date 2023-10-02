@@ -53,7 +53,17 @@ Georgetown Gourmet runs a 20% discount and does not use the user's balance.
 
 ## How do I get my hands on the data?
 At the moment you can't. I will spin up a hoya developer exclusive readonly HTTP API.
-You can use this API to develop the react app as well. And then when it comes time to deploy, I'll
+You can use this API to develop the web app as well. And then when it comes time to deploy, I'll
 build out real production endpoints which authenticate/authorize the merchant to access the data.
 
 If you have never worked with an HTTP API before or don't know what that is do let me know in discord.
+
+## UI
+We'll have some figma mockups in the next couple of days. It's important to be on the discord for
+feedback and discussion of the UI.
+
+## Onboarding Merchants
+We want merchants to be able to join our platform with minimal manual interaction.
+They should be able to select what type of rewards program they want to run.
+Either Allowance, a straight up discount, or come up with their own.
+
